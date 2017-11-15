@@ -1,0 +1,23 @@
+{
+  "name": "conversor",
+  "version": "0.1.0",
+  "description": "Conversor de Kg a lb y viceversa para el Curso de Fundamentos de Javascript de Platzi",
+  "main": "conversor.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjyepez/conversor.git"
+  },
+  "keywords": [
+    "convertir",
+    "kg",
+    "kilos",
+    "lb",
+    "libras",
+    "conversor"
+  ],
+  "author": "jjyepez <jjyepez@gmail.com>",
+  "license": "MIT"
+}
